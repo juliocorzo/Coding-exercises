@@ -3,10 +3,11 @@
 #### Useful links
 
 [Current course](https://www.coursera.org/learn/duke-programming-web/home/welcome)
+
 [Duke Resources](http://www.dukelearntoprogram.com/course1/index.php)
 
 #### Detailed exercises
 
 **Week 2**
 
-[Programming exercise: modifying images]
+[Programming exercise: modifying images](https://github.com/juliocorzo/programmingfundamentalscoursera/blob/master/exercises/modifyingimages.md)
