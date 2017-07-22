@@ -1,5 +1,5 @@
 # Java Programming and Software Engineering Fundamentals
-## Exercises from the Coursera specialization offered by Duke.
+## Exercises from the Coursera specialization.
 
 ### Useful links
 
